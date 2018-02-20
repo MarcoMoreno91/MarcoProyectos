@@ -1,0 +1,12 @@
+Lista de componentes
+
+2  Led Rojo.
+2  Led Verde.
+1  Led Ambar.
+5  Resistencias de 330 ohmios.
+1  Pulsador normalmente abierto.
+1  Potenciómetro de 10K.
+9  Cables.
+1  Placa Arduino Uno.
+1  Placa Protoboard.
+1 Cable de impresora.
